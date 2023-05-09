@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @elyxir4lyf
-- 👀 I’m interested in Financial modelling and valuation, Data Science and Machine Learning.
-- 🌱 I’m currently learning Financial Engineering and Python programming.
-- 💞️ I’m looking to collaborate on Python for Data Science and Finance projects
+- 👋 Hi, I’m @elyxir4lyf.
+- 👀 I’m interested in Business Intelligence, Data Analysis, Data Science and Machine Learning.
+- 🌱 I’m continue to learn any and every application of and Python programming.
+- 💞️ I’m looking to collaborate on Python for Business Intelligence, Data Analysis and Science and Machine Learnings.
 - 📫 Kindly send a mail to elyxir4lyf@hotmail.com, to reach me.
 
 <!---
