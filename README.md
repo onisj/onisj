@@ -1,6 +1,6 @@
 # Hello, I am John (Oni, S.J.)
 
-![ezgif com-crop (4)](https://github.com/onisj/onisj/assets/worker.gif)
+![ezgif com-crop (4)](worker.gif)
 
 ## Thanks for stopping by. Here's a little bit about myself
 - 😄 My pronouns are: He/His/Him
@@ -29,12 +29,12 @@ If you want to talk to me or discuss a project, then feel free to shoot me an em
 - [View](xxx) **Name**
 
 ### Excel:
-- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis] **Financial Analysis with Excel**
+- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis]) **Financial Analysis with Excel**
 - [view](https://github.com/onisj/ExcelProjects/tree/main/Dashboards/McDonalds) **McDonalds dashboard with Excel**
 
   
 ### Data Analysis and Dashboards:
-- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis] **Financial Analysis with Excel**
+- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis]) **Financial Analysis with Excel**
 - [view](https://github.com/onisj/PowerBI_Dashboards/tree/master/carSalesDashboard) **Car Sales Dashboard**
 - [view](https://github.com/onisj/PowerBI_Dashboards/tree/master/worldPopulation_webScrapping_dashboard) **World Population with web scrapping**
 - [View](https://github.com/onisj/SQLProjects/tree/main/PizzaDB) **Pizza Database**
