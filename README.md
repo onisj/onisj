@@ -1,10 +1,9 @@
-# Hello, I am John (Oni,SJ)
+# Hello, I am John (Oni,S.J.)
 ---
----
-![ezgif com-crop (4)](onisj/243337644-bcd5d802-dc77-4994-86a6-f5ccb46cc145.gif
+
+![ezgif com-crop (4)](onisj/243337644-bcd5d802-dc77-4994-86a6-f5ccb46cc145.)
 
 ## Thanks for stopping by. Here's a little bit about myself
----
 - 😄 My pronouns are: He/His/Him
 - 👀 I’m interested in Business Intelligence, Data Analysis, Data Engineering, Data Science (Machine Learning, Deep Learning) projects. That means...
    - 👯 I'm always open to freelance gigs and contract-based opportunities
@@ -22,7 +21,6 @@ If you want to talk to me or discuss a project, then feel free to shoot me an em
 
 
 ## My projects:
----
 
 ### Data Engineering:
 - [View](xxx) **Name**
@@ -50,7 +48,7 @@ If you want to talk to me or discuss a project, then feel free to shoot me an em
 - [View](https://github.com/onisj/SQLProjects/tree/main/PizzaDB) **Pizza Database**
 
 ## My Skills:
----
+
 **Data Analysis & Machine Learning**
 
 <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
