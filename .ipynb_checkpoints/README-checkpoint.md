@@ -1,7 +1,6 @@
-# Hello, I am John (Oni,S.J.)
----
+# Hello, I am John (Oni, S.J.)
 
-![ezgif com-crop (4)](onisj/243337644-bcd5d802-dc77-4994-86a6-f5ccb46cc145.)
+![ezgif com-crop (4)](https://github.com/onisj/onisj/243337644-bcd5d802-dc77-4994-86a6-f5ccb46cc145.)
 
 ## Thanks for stopping by. Here's a little bit about myself
 - 😄 My pronouns are: He/His/Him
