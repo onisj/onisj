@@ -60,7 +60,7 @@ If you want to talk to me or discuss a project, then feel free to shoot me an em
 
 <a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://miro.medium.com/v2/resize:fit:640/0*zvhlCD9RXDA4qbX5" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="C:\Users\user\git_repos\completedProjects\onisj\huggingFace.png" width="70" height="70" alt="Hugging Face" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="huggingFace.png" width="70" height="70" alt="Hugging Face" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
