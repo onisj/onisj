@@ -1,6 +1,6 @@
 # Hello, I am John (Oni, S.J.)
 
-![ezgif com-crop (4)](https://github.com/onisj/onisj/243337644-bcd5d802-dc77-4994-86a6-f5ccb46cc145.)
+![ezgif com-crop (4)](https://github.com/onisj/onisj/assets/worker.gif)
 
 ## Thanks for stopping by. Here's a little bit about myself
 - 😄 My pronouns are: He/His/Him
@@ -14,9 +14,9 @@
    - How to architect a better data system
 - 🔭 I’m currently working as a data analyst at The Elixirs Lab
 - 💞️ I’m looking to collaborate on projects within and beyond my areas of expertise.
-- 📫 Here's how you can reach me: [X](https://twitter.com/elyxir) | [LinkedIn](https://www.linkedin.com/in/onisj | [Mail](mailto:elyxir4lyf@hotmail.com
+- 📫 Here's how you can reach me: [X](https://twitter.com/elyxir) | [LinkedIn](https://www.linkedin.com/in/onisj) | [Mail](mailto:elyxir4lyf@hotmail.com)
 
-If you want to talk to me or discuss a project, then feel free to shoot me an email or chat with me via [X](https://twitter.com/elyxir) or [LinkedIn](https://www.linkedin.com/in/onisj.
+If you want to talk to me or discuss a project, then feel free to shoot me an email or chat with me via [X](https://twitter.com/elyxir) or [LinkedIn](https://www.linkedin.com/in/onisj).
 
 
 ## My projects:
