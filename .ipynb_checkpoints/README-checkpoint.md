@@ -60,7 +60,7 @@ If you want to talk to me or discuss a project, then feel free to shoot me an em
 
 <a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://miro.medium.com/v2/resize:fit:640/0*zvhlCD9RXDA4qbX5" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://pbs.twimg.com/profile_images/1526964416834510848/Njy4Kh2q_400x400.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-global.website-files.com%2F61e7d259b7746e3f63f0b6be%2F646232e5da4c44c69d0e4e95_Eden%2520Ai%2520X%2520Huggingface.webp&tbnid=rmjQbTd4UewZkM&vet=12ahUKEwjA5tj5542EAxUMTKQEHRs7BwwQMygTegUIARCaAQ..i&imgrefurl=https%3A%2F%2Fwww.edenai.co%2Fproviders%2Fhuggingface&docid=tz5_2sPxAO0K-M&w=512&h=512&q=hugging%20face&ved=2ahUKEwjA5tj5542EAxUMTKQEHRs7BwwQMygTegUIARCaAQ" width="70" height="70" alt="Hugging Face" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a><img src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
