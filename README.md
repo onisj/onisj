@@ -14,7 +14,7 @@
    - How to architect a better data system
 - 🔭 I’m currently working as a data analyst at The Elixirs Lab
 - 💞️ I’m looking to collaborate on projects within and beyond my areas of expertise.
-- 📫 Here's how you can reach me: [X](https://twitter.com/elyxir) | [LinkedIn](https://www.linkedin.com/in/onisj) | [Mail](mailto:elyxir4lyf@hotmail.com)
+- 📫 Here's how you can reach me: [X](https://twitter.com/elyxir) | [LinkedIn](https://www.linkedin.com/in/onisj) | [Mail](mailto:oni_sj@outlook.com)
 
 If you want to talk to me or discuss a project, then feel free to shoot me an email or chat with me via [X](https://twitter.com/elyxir) or [LinkedIn](https://www.linkedin.com/in/onisj).
 
