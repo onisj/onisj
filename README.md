@@ -27,8 +27,8 @@ AI/LLM Engineer with over 7 years of experience building cutting-edge AI solutio
 ## Featured Projects
 
 ### AI & Large Language Models (LLM)
-- **[Sigma Insurance Assistant](https://github.com/Folakuku/sigma-insurance)**: Built an AI-powered executive assistant using LangGraph and Zapier, automating scheduling and email prioritization, reducing missed meetings by 30%.
-- **[MindPadi Mental Health AI](https://github.com/onisj/mindpadi-ai)**: Architected a modular therapy platform with LangGraph and FastAPI, integrating fine-tuned GPT-2 models, improving user engagement by 35%.
+- **[Sigma Insurance Assistant](https://github.com/onisj/sigma-insurance)**: Built an AI-powered executive assistant using LangGraph and Zapier, automating scheduling and email prioritization, reducing missed meetings by 30%.
+- **[MindPadi Mental Health AI](www.mindpadi.com)**: Architected a modular therapy platform with LangGraph and FastAPI, integrating fine-tuned GPT-2 models, improving user engagement by 35%.
 - **[Loubby AI Assistant](https://github.com/onisj/Loubby-AI_Assistant)**: Developed a RAG-based navigation assistant with Chroma, achieving 92% query accuracy and multilingual support.
 - **[YouTube Video Summarizer](https://github.com/onisj/sigmarizer)**: Created an LLM-based summarizer with text-to-speech, achieving 90% relevance in summarizing key video themes.
 
