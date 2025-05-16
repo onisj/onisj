@@ -1,4 +1,4 @@
-# Hello, I'm John Oni (Oni, S.J.) 👋
+# Hello, I'm Segun Oni (Oni, S.J.) 👋
 
 ![ezgif com-crop (4)](worker.gif)
 
@@ -16,7 +16,7 @@ AI/LLM Engineer with over 7 years of experience building cutting-edge AI solutio
    - 💬 I'm looking to collaborate and create some cool content that we can share with the community
    - 🤘 You can find various data projects on my profile
 
-## 📫 Here's how you can reach me: 
+## 📫 How To Reach Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/onisj) 
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/oni_sj) [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:oni_sj@outlook.com)
 
