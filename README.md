@@ -9,9 +9,6 @@ AI/LLM Engineer with over 7 years of experience building cutting-edge AI solutio
 ## About Me
 - 🔭 **Currently**: AI/LLM Analyst at Turing Enterprises Inc. and Lead AI Engineer at MindPadi Mental Health AI.
 - 👀 **Interests**: LLMs, RAG, Agentic AI, MLOps, Blockchain, Financial Analytics, and Ethical AI. That means...
-   - 👯 I'm always open to freelance gigs and contract-based opportunities
-   - 💬 I'm looking to collaborate and create some cool content that we can share with the community
-   - 🤘 You can find various data projects on my profile
 - 💼 **Open to**: Freelance AI/ML projects, collaborations on innovative AI or blockchain solutions.
 
 ## 📫 How To Reach Me 
