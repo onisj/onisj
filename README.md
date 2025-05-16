@@ -1,90 +1,69 @@
-# Hello, I am John (Oni, S.J.)
+# Hello, I'm John Oni (Oni, S.J.) 👋
 
 ![ezgif com-crop (4)](worker.gif)
 
-## Thanks for stopping by. Here's a little bit about myself
+AI/LLM Engineer with over 7 years of experience building cutting-edge AI solutions, specializing in large language models (LLMs), retrieval-augmented generation (RAG), and agentic AI systems. Passionate about innovating in ethical finance and blockchain ecosystems, with expertise in MLOps, DevOps, and scalable AI pipelines. Currently exploring advanced AI architectures, blockchain fundamentals, and cloud-native deployments.
+
+---
+
+## About Me
 - 😄 My pronouns are: He/His/Him
+- 🔭 **Currently**: AI/LLM Analyst at Turing Enterprises Inc. and Lead AI Engineer at MindPadi Mental Health AI.
+- 👀 **Interests**: LLMs, RAG, Agentic AI, MLOps, Blockchain, Financial Analytics, and Ethical AI.
+- 💼 **Open to**: Freelance AI/ML projects, collaborations on innovative AI or blockchain solutions.
 - 👀 I’m interested in Business Intelligence, Data Analysis, Data Engineering, Data Science (Machine Learning, Deep Learning) projects. That means...
    - 👯 I'm always open to freelance gigs and contract-based opportunities
    - 💬 I'm looking to collaborate and create some cool content that we can share with the community
    - 🤘 You can find various data projects on my profile
-- 🌱 I continue to learn and improve my grasp of programming languages and tools like Python, SQL, Power BI, Excel, Tableau, R etc. I also continue to advance in my understanding of libraries. I am currently learning
-   - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
-   - Azure Cloud (Already worked with AWS & GCP)
-   - How to architect a better data system
-- 🔭 I’m currently working as a data analyst at The Elixirs Lab
-- 💞️ I’m looking to collaborate on projects within and beyond my areas of expertise.
-- 📫 Here's how you can reach me: [X](https://twitter.com/elyxir) | [LinkedIn](https://www.linkedin.com/in/onisj) | [Mail](mailto:oni_sj@outlook.com)
 
-If you want to talk to me or discuss a project, then feel free to shoot me an email or chat with me via [X](https://twitter.com/elyxir) or [LinkedIn](https://www.linkedin.com/in/onisj).
+## 📫 Here's how you can reach me: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/onisj) 
+[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/oni_sj) [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:oni_sj@outlook.com)
+
+![Followers](https://img.shields.io/github/followers/Onisj?label=Follow&style=social)
+
+---
+
+## Featured Projects
+
+### AI & Large Language Models (LLM)
+- **[Sigma Insurance Assistant](https://github.com/Folakuku/sigma-insurance)**: Built an AI-powered executive assistant using LangGraph and Zapier, automating scheduling and email prioritization, reducing missed meetings by 30%.
+- **[MindPadi Mental Health AI](https://github.com/onisj/mindpadi-ai)**: Architected a modular therapy platform with LangGraph and FastAPI, integrating fine-tuned GPT-2 models, improving user engagement by 35%.
+- **[Loubby AI Assistant](https://github.com/onisj/Loubby-AI_Assistant)**: Developed a RAG-based navigation assistant with Chroma, achieving 92% query accuracy and multilingual support.
+- **[YouTube Video Summarizer](https://github.com/onisj/sigmarizer)**: Created an LLM-based summarizer with text-to-speech, achieving 90% relevance in summarizing key video themes.
+
+### MLOps & Data Engineering
+- **[End-to-End ML Pipeline](https://github.com/onisj/mlops-pipeline)**: Designed a production-ready ML pipeline using MLflow, Mage, and Flask, monitored with Prometheus and Grafana, achieving 95% accuracy.
+- **[AWS Infrastructure Automation](https://github.com/onisj/aws-wordpress)**: Automated WordPress deployment on AWS EC2 with Terraform and Kubernetes, reducing deployment time by 35%.
+
+### Financial Analytics & Blockchain
+- **[Financial Market Analysis System](https://github.com/onisj/finance-analyzer)**: Built a LangGraph-based stock price prediction platform using Auto ARIMA, achieving 85% forecast accuracy, with potential blockchain applications.
+- **[Cold Email Workflow](https://github.com/onisj/sigma-insurance)**: Developed an AI-driven system with LangChain for personalized insurance outreach, increasing response rates by 20%.
+
+### Data Analysis & Visualization
+- **[HR Dashboard](https://github.com/onisj/SQLProjects/tree/main/HR_Dashboard/HR-Dashboard-MySQL-PowerBI)**: Created a MySQL-PowerBI dashboard for HR analytics, optimizing workforce insights.
+- **[Pizza Database](https://github.com/onisj/SQLProjects/tree/main/PizzaDB)**: Designed a PostgreSQL database with complex queries for operational analytics.
+- **[Financial Analysis with Excel](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis)**: Built advanced financial models for business decision-making.
+
+---
+
+## Skills & Tools
+
+### Expert
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=machine-learning&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-0288D1?logo=natural-language-processing&logoColor=white) ![LLM Optimization](https://img.shields.io/badge/-LLM%20Optimization-4CAF50?logo=ai&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-9C27B0?logo=ai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-673AB7?logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+
+### Advanced
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![MLOps](https://img.shields.io/badge/-MLOps-0288D1?logo=mlops&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-00C4B4?logo=pinecone&logoColor=white) ![Chroma](https://img.shields.io/badge/-Chroma-4CAF50?logo=chroma&logoColor=white)
+
+### Experienced
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain&logoColor=white)
+
+---
+
+## GitHub Stats
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onisj&show_icons=true&theme=radical)
+
+## Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Onisj&theme=react-dark)
 
 
-## My projects:
-
-### Data Engineering:
-- [View](xxx) **Name**
-
-
-### Data Science (ML / DL/ LLM):
-- [View](xxx) **Name**
-
-### Excel:
-- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis]) **Financial Analysis with Excel**
-- [view](https://github.com/onisj/ExcelProjects/tree/main/Dashboards/McDonalds) **McDonalds dashboard with Excel**
-
-  
-### Data Analysis and Dashboards:
-- [view](https://github.com/onisj/ExcelProjects/tree/main/FinancialAnalysis]) **Financial Analysis with Excel**
-- [view](https://github.com/onisj/PowerBI_Dashboards/tree/master/carSalesDashboard) **Car Sales Dashboard**
-- [view](https://github.com/onisj/PowerBI_Dashboards/tree/master/worldPopulation_webScrapping_dashboard) **World Population with web scrapping**
-- [View](https://github.com/onisj/SQLProjects/tree/main/PizzaDB) **Pizza Database**
-- [View](https://github.com/onisj/SQLProjects/tree/main/HR_Dashboard/HR-Dashboard-MySQL-PowerBI) **HR Dashboard**
-
-### SQL (MySQL, Postgres, Azure):
-- [View](https://github.com/onisj/SQLProjects/tree/main/AdventureWorks_Queries) **Adventure Works Queries**
-- [View](https://github.com/onisj/SQLProjects/tree/main/HR_Dashboard/HR-Dashboard-MySQL-PowerBI) **HR Dashboard**
-- [View](https://github.com/onisj/SQLProjects/tree/main/ParchAndPosey) **Parch and  Queries**
-- [View](https://github.com/onisj/SQLProjects/tree/main/PizzaDB) **Pizza Database**
-
-## My Skills:
-
-**Data Analysis & Machine Learning**
-
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" width="70" height="70" alt="Autoprefixer logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://analyticslearn.com/wp-content/uploads/2020/11/What-is-Exploratory-Data-Analysis.jpg" width="" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://www.alura.com.br/artigos/assets/power-bi/power-bi-logo.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**Deploying Machine Learning Models**
-
-<a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://miro.medium.com/v2/resize:fit:640/0*zvhlCD9RXDA4qbX5" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="huggingFace.png" width="70" height="70" alt="Hugging Face" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a><img src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!---
-onisj/onisj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- - 🤘 Here are my Open Source contributions so far: I keep building projects and tutorials for my YouTube channel, here are some
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)
-  - [Twitter Data Pipeline using Airflow](https://github.com/darshilparmar/twitter-airflow-data-engineering-project)
-  - [Stock Market Real-Time Data Processing Using Kafka](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-- 📝 Here are my most recent blogs:
-   - Medium
-     - [SQL Functions I Use as Data Engineer](https://medium.com/@darshilp/sql-functions-i-use-as-data-engineer-1a1157b11cb4)
-     - [7 End-To-End Data Engineering Projects for FREE](https://medium.com/@darshilp/7-end-to-end-data-engineering-projects-for-free-bf9e86d7bfe0)
-     - [MY JOURNEY INTO DATA ENGINEERING](https://medium.com/@darshilp/my-journey-into-data-engineering-2f5a9648d0cd)
-- My Certifications and Courses
-  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/57774a7f-8f46-4896-8b85-0d882385dd8a/public_url)
-  - [Data Engineering, Big Data, and Machine Learning on GCP](https://coursera.org/share/1e743b93580fa6bc549063589a0f67a4)
-  - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5XV682V6U5DQ)
-  - [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/certificate/FWZYWR93ZGMA)
-  - [Data Science Professional Certificate](https://www.credly.com/badges/eaf89631-0357-4fd9-b967-c72266b49ba0/public_url) -->
-  
-
-  
